@@ -1,7 +1,7 @@
 # UIkit3 Font Awesome icons List
 
 i | Icon | Name | Usage
---- | --- | --- | ---
+--- | :---: | --- | ---
 1 | ![address-book-o](icons/address-book-o.svg) | fa-address-book-o | `uk-icon="icon: fa-address-book-o"`
 2 | ![address-book](icons/address-book.svg) | fa-address-book | `uk-icon="icon: fa-address-book"`
 3 | ![address-card-o](icons/address-card-o.svg) | fa-address-card-o | `uk-icon="icon: fa-address-card-o"`
