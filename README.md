@@ -1,5 +1,6 @@
 # UIkit3 Font Awesome icons
 * Icons available: 786
+* [Icons List](ICONLIST.md)
 * Grid size: 20px
 * SVG files generated with awesome [icomoon.io](https://icomoon.io)
 
