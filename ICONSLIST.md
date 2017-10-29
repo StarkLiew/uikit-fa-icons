@@ -1,5 +1,6 @@
 # UIkit3 Font Awesome icons List
-# | Icon | Name | Usage
+
+i | Icon | Name | Usage
 --- | --- | --- | ---
 1 | ![address-book-o](icons/address-book-o.svg) | address-book-o | **uk-icon="icon: address-book-o"**
 2 | ![address-book](icons/address-book.svg) | address-book | **uk-icon="icon: address-book"**
